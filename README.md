@@ -2,6 +2,8 @@
 
 A Unity 3D zombie survival game where players must collect keys and escape through doors to progress through levels.
 
+🎮 **[Play the Game on itch.io](https://adityabhuran.itch.io/deadly-run)**
+
 ## Game Description
 
 DeadlyRun is a level-based survival game where players navigate through zombie-infested environments. The objective is simple: find the key, reach the door, and escape to the next level.
