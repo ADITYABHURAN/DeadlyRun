@@ -22,6 +22,7 @@ DeadlyRun is a level-based survival game where players navigate through zombie-i
 - Door unlock system
 - Menu controller for scene transitions
 - Win/Lose scene support
+-
 
 ## Scripts
 
