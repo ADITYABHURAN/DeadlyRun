@@ -76,7 +76,7 @@ Make sure all level scenes are added to Build Settings:
 
 ## Controls
 
-[Add your control scheme here, e.g.:]
+
 - WASD / Arrow Keys - Movement
 - Mouse - Look around
 - Space - Jump
@@ -101,13 +101,11 @@ Assets/
 └── ...              # Other asset folders
 ```
 
-## License
 
-[Add your license here]
 
 ## Credits
 
-Developed by [Your Name]
+Developed by Aditya B
 
 ## Future Improvements
 
